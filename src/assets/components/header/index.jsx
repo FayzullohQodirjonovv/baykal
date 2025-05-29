@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
-import Bayqal from '../../img/Bayqal.svg';
+import Bayqal from '../../img/bayqal.svg';
+
 import { Menu, X } from 'lucide-react';
 
 const Header = () => {
